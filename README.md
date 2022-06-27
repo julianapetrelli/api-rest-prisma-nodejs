@@ -1,6 +1,4 @@
-# Prisma + Next.js Starter
-
-Starter project for [Next.js + Prisma ](https://www.prisma.io/).
+# Starter project for [Prisma ](https://www.prisma.io/).
 
 ### Requirements
 
